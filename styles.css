@@ -45,6 +45,10 @@ ul {
 }
 
 li {
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-top: 10px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -54,6 +58,9 @@ li {
     cursor: pointer;
     background-color: #ff6347;
     color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
 }
 
 .remove-btn:hover {
